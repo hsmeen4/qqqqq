@@ -1,7 +1,5 @@
 # qqqqq
 
-print("print")
-hihihihi
 def test():
 	a = 1
 	b = 3
